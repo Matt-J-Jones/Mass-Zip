@@ -1,2 +1,2 @@
-# Mass-Zip
+# Mass Zip
 Mass Zip/Compress Tool
